@@ -22,6 +22,7 @@ a:link{
 }
 #aboutpage{
     text-align: center;
-    flex: auto;
-    padding: 40px;
+    margin-left:auto;
+    margin-right:auto;
+    width:10em;
 }
