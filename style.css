@@ -1,0 +1,27 @@
+#map{
+    height: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+body{
+    background-color: #6d6875;
+    color: rgb(243, 243, 235);
+    font-family:Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 70px;
+    font-size:15px;
+}
+a:link{
+    color: rgb(243, 243, 235);
+}
+#aboutpage{
+    text-align: center;
+    flex: auto;
+    padding: 40px;
+}
